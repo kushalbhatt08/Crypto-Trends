@@ -1,5 +1,5 @@
 # Crypto-Trends
-## The Crypto-Trends Dashboard in Power BI offers an interactive and visual representation of real-time and historical cryptocurrency market trends. It is designed to provide investors, analysts, and enthusiasts with clear insights into the volatile and fast-paced crypto space.
+The Crypto-Trends Dashboard in Power BI offers an interactive and visual representation of real-time and historical cryptocurrency market trends. It is designed to provide investors, analysts, and enthusiasts with clear insights into the volatile and fast-paced crypto space.
 
 ## Key Features:
 📈 Price Movement Visualization: Track daily, weekly, and monthly price trends of major cryptocurrencies like Bitcoin (BTC), Ethereum (ETH), and others.
