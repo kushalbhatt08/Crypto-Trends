@@ -1,1 +1,1 @@
-# Crypto-Trends-
+# Crypto-Trends
